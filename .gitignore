@@ -1,0 +1,26 @@
+# TencentOS / Hyper-V / Scripts
+*.iso
+*.tgz
+*.tar.gz
+*.zip
+
+# Virtual Machine files
+*.vhdx
+*.vhd
+*.vmcx
+*.vmrs
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Extracted ISO
+iso_extract/
+
+# Large files (>20MB) - exclude from Git
+*.tgz
+*.tar
+*.tar.gz
+*.rpm
+*.iso
